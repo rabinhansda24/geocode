@@ -4,7 +4,7 @@ import ast
 import json
 
 #Google API key
-key = 'AIzaSyDMs7fNkk-vW7i4-VDVmkezikm6MAGP93M'
+key = ''
 gmaps = googlemaps.Client(key=key)
 
 
